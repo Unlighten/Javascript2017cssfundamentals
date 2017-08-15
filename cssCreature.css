@@ -1,0 +1,240 @@
+.Spongebob{
+	margin: 5px;
+}
+
+.sbody{
+	width: 500px;
+	height: 500px;
+	border: solid 2px black;
+	background-color: yellow;
+	border-radius: 20px;
+	margin-left: 500px;
+	margin-top: 100px;
+}.Spongebob{
+	margin: 5px;
+}
+
+.sbody{
+	width: 500px;
+	height: 500px;
+	border: solid 3px black;
+	background-color: yellow;
+	border-radius: 20px;
+	margin-left: 880px;
+	margin-top: 100px;
+}
+
+.left-eye{
+	width: 75px;
+	height: 100px;
+	border: solid 3px black;
+	border-radius: 25px;
+	z-index: 1;
+	position: relative;
+	left: 1000px;
+	top: -395px;
+	background-color: white;
+}
+
+.right-eye{
+	width: 75px;
+	height: 100px;
+	border: solid 3px black;
+	border-radius: 25px;
+	z-index: 1;
+	position: relative;
+	left: 1200px;
+	top: -500px;
+	background-color: white;
+}
+
+.inside-right-eye{
+  width: 35px;
+	height: 30px;
+	border: solid 15px black;
+	border-radius: 25px;
+	z-index: 1;
+	position: relative;
+	left: 1206px;
+	top: -640px;
+	background-color: blue;
+}
+
+.inside-left-eye{
+  width: 35px;
+	height: 30px;
+	border: solid 15px black;
+	border-radius: 25px;
+	z-index: 1;
+	position: relative;
+	left: 1008px;
+	top: -580px;
+	background-color: blue;
+}
+
+.mouth{
+  width: 250px;
+	height: 1px;
+	border: solid 10px black;
+	border-radius: 25px;
+	z-index: 1;
+	position: relative;
+	left: 1007px;
+	top: -560px;
+	background-color: black;
+}
+
+.mouth-smile{
+  width: 250px;
+	height: 25px;
+	border: solid 10px black;
+	border-radius: 0 0 100px 40%/100px;
+	z-index: 1;
+	position: relative;
+	left: 1007px;
+	top: -570px;
+	background-color: lightyellow;
+}
+
+.mouth-tooth1{
+  width: 70px;
+	height: 70px;
+	border: solid 1px black;
+	border-radius: 0 0 100px 100%/20px;
+	z-index: 1;
+	position: relative;
+	left: 1060px;
+	top: -605px;
+	background-color: white;
+}
+
+.mouth-tooth2{
+  width: 70px;
+	height: 70px;
+	border: solid 1px black;
+	border-radius: 0 0 100px 100%/20px;
+	z-index: 1;
+	position: relative;
+	left: 1150px;
+	top: -677px;
+	background-color: white;
+}
+
+.left-arm{
+  width: 320px;
+  height: 50px;
+  border: solid 1px black;
+  border-radius: 0 0 0 0;
+  position: relative;
+  left: 559px;
+  top: -700px;
+  background-color: yellow;
+}
+
+.left-arm-hand{
+  width: 60px;
+  height: 60px;
+  border: solid 1px black;
+  border-radius: 0 0 0 0;
+  position: relative;
+  left: 559px;
+  top: -760px;
+  background-color: yellow;
+}
+
+.right-arm{
+  width: 320px;
+  height: 50px;
+  border: solid 1px black;
+  border-radius: 0 0 0 0;
+  position: relative;
+  left: 1385px;
+  top: -810px;
+  background-color: yellow;
+}
+
+.right-arm-hand{
+  width: 60px;
+  height: 60px;
+  border: solid 1px black;
+  border-radius: 0 0 0 0;
+  position: relative;
+  left: 1650px;
+  top: -870px;
+  background-color: yellow;
+}
+.shirt{
+	width: 500px;
+  height: 50px;
+  border: solid 4px black;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 879px;
+  top: -865px;
+  background-color: white;
+}
+.pants{
+	width: 500px;
+  height:70px;
+  border: solid 4px brown;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 879px;
+  top: -870px;
+  background-color: orange;
+}
+
+.tie{
+	width: 40px;
+  height: 70px;
+  border: solid 4px black;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 1118px;
+  top: -1000px;
+  background-color: red;
+}
+
+.lleg {
+ 	width: 50px;
+  height: 300px;
+  border: solid 1px black;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 1000px;
+  top: -950px;
+  background-color: yellow;
+}
+
+.rleg {
+ 	width: 50px;
+  height: 300px;
+  border: solid 1px black;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 1220px;
+  top: -1252px;
+  background-color: yellow;
+}
+
+.lfoot {
+ 	width: 100px;
+  height: 50px;
+  border: solid 1px black;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 950px;
+  top: -1275px;
+  background-color: orange;
+}
+
+.rfoot {
+ 	width: 100px;
+  height: 50px;
+  border: solid 1px black;
+  border-radius: 0px 0px 0px 0px;
+  position: relative;
+  left: 1220px;
+  top: -1325px;
+  background-color: orange;
+}
